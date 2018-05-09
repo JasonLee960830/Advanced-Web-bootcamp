@@ -335,5 +335,9 @@ p {
 	padding-bottom: 20px;
 }
 ```
+## Blog  example
+[original code click](Blog_Solution/blog.html)
 
-[id](Blog_Solution/blog.html)
+* ``<hr>`` can draw a horizontal line.
+* create body, post, quote, date class block and set the border and other properties.
+
