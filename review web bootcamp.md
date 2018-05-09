@@ -335,6 +335,5 @@ p {
 	padding-bottom: 20px;
 }
 ```
-![alt text][id]
 
-[id]: Blog_Solution/blog.html 
+[id](Blog_Solution/blog.html)
